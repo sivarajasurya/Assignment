@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="marshalling_unmarshalling">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../marshalling_unmarshalling/out/artifacts/marshalling_unmarshalling_jar/marshalling_unmarshalling.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
